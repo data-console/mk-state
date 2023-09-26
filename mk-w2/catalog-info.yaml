@@ -1,0 +1,7 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: "mk-w2"
+  sc: "123"
+spec:
+  env: production,test,development
